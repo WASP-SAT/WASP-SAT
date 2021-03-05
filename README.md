@@ -2,10 +2,16 @@
 
 The WASP Software Analysis and Testing core technology cluster
 
+Important Links
+--------------
+
++ [Members](https://github.com/WASP-SAT/WASP-SAT/wiki/Members)
++ [Topics](https://github.com/WASP-SAT/WASP-SAT/wiki/Topics)
++ [Organization](https://github.com/WASP-SAT/WASP-SAT/wiki/Cluster-Organization)
+
 Cluster Goals
 ---------------
 Currently being defined, head over to [Cluster Organization](https://github.com/WASP-SAT/WASP-SAT/wiki/Cluster-Organization) to see the current ideas (and feel free to add any!)
-
 
 Core Technology Cluster definition
 ------------------------
