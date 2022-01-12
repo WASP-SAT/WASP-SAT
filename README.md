@@ -8,6 +8,7 @@ Important Links
 + [Members](https://github.com/WASP-SAT/WASP-SAT/wiki/Members)
 + [Topics](https://github.com/WASP-SAT/WASP-SAT/wiki/Topics)
 + [Organization](https://github.com/WASP-SAT/WASP-SAT/wiki/Cluster-Organization)
++ [Program](https://github.com/WASP-SAT/WASP-SAT/wiki/Program)
 
 Cluster Goals
 ---------------
